@@ -327,3 +327,21 @@ Python was used for data cleaning, validation, transformation, and data-quality 
 The project helped analyze customer behavior, transaction activity, investment patterns, and branch-level financial performance while also highlighting important data-quality considerations.
 
 Overall, the project demonstrates practical skills in **Python, Pandas, data cleaning, data validation, Power BI, data modeling, DAX, and data visualization**.
+
+## Dashboard Preview
+
+### Banking Analytics Dashboard
+
+![Banking Analytics Dashboard](images/banking-overview.png)
+
+### Customer Analysis
+
+![Customer Analysis](images/customer-analysis.png)
+
+### Transaction Analysis
+
+![Transaction Analysis](images/transaction-analysis.png)
+
+### Branch Analysis
+
+![Branch Analysis](images/branch-analysis.png)
